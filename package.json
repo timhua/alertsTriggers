@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/timhua/alertsTriggers/issues"
   },
-  "homepage": "https://github.com/timhua/alertsTriggers"
+  "homepage": "https://github.com/timhua/alertsTriggers",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
