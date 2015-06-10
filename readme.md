@@ -1,2 +1,3 @@
 ### Installed bootstrap 
-$ bower install bootstrap
+
+df$ bower install bootstrap
